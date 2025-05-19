@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045850762118",
+    "project_id": "finalproject-3817f",
+    "storage_bucket": "finalproject-3817f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045850762118:android:eb7325084edc36d1e45a07",
+        "android_client_info": {
+          "package_name": "com.hot_dog.job_market_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
